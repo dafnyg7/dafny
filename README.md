@@ -1,4 +1,4 @@
-# dafny
+# dafn
 <!DOCTYPE html>
 <html lang="en">
   <head>
